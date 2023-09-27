@@ -93,7 +93,7 @@ class GameScreen extends StatelessWidget {
 															border: Border.all(
 																color: const Color.fromARGB(136, 255, 255, 255),
 																width: 2,
-																strokeAlign: StrokeAlign.center),
+																strokeAlign: BorderSide.strokeAlignCenter),
 														),
 													),
 												)),
